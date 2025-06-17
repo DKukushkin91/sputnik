@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@theme {
+    --spacing: 1px;
+    --breakpoint-xs: 500px;
+}
